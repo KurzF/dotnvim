@@ -1,6 +1,6 @@
 {
     plugins.lualine = {
-	enable = true;
-	globalstatus = true;
+		enable = true;
+		globalstatus = true;
     };
 }

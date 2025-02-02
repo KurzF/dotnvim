@@ -5,14 +5,16 @@
 		./cmp.nix
 		./colorizer.nix
 		./conform.nix
+		./dap.nix
 		./lsp.nix
 		./lualine.nix
 		./toggleterm.nix
 		./telescope.nix
 		./tree.nix
+		./treesitter.nix
 	];
 
-    	globals.mapleader = "<space>";
+    globals.mapleader = "<space>";
 
 	opts = {
 	    number = true;
