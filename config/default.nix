@@ -6,6 +6,7 @@
 		./colorizer.nix
 		./conform.nix
 		./dap.nix
+		./icons.nix
 		./lsp.nix
 		./lualine.nix
 		./toggleterm.nix

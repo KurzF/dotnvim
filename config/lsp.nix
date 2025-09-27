@@ -2,9 +2,9 @@
     plugins.lsp = {
 		enable = true;
 		servers = {
-			tsserver.enable = true;
-			lua-ls.enable = true;
-			rust-analyzer.enable = true;
+			ts_ls.enable = true;
+			lua_ls.enable = true;
+			rust_analyzer.enable = true;
 		};
     };
 }
